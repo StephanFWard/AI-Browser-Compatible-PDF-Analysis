@@ -6,7 +6,10 @@
 A browser-based tool for analyzing multiple PDF documents with AI-powered search.  
 **No installation required** • **Client-side processing** • **Multi-document support**
 
-![Demo](https://via.placeholder.com/800x400.png?text=PDF+Query+Demo+Interface)
+Screenshot Below
+
+![image](https://github.com/user-attachments/assets/59a04949-9627-44fd-875f-4572e347c897)
+
 
 ## ✨ Features
 
