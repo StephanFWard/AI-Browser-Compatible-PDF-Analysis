@@ -23,21 +23,29 @@ A browser-based tool for analyzing multiple PDF documents with AI-powered search
 
 ## 🚀 Use Cases
 
-### Academic Research
-# Upload research papers
-# Query: "Compare neural network architectures for image segmentation"
-# Output: Ranked results with citations
+Academic Research
+Upload research papers
+Query: "Compare neural network architectures for image segmentation"
+Output: Ranked results with citations**
 
 🛠 Technical Implementation
 
 📋 Tech Specs
+
 Category	Details
+
 Max Document Size	50MB per PDF
+
 Processing Speed	100 pages/sec
+
 Supported Formats	Text-based PDFs
+
 Output Options	Highlighted text, CSV exports
+
 Browser Compatibility	Chrome, Firefox, Edge
+
 🚧 Roadmap
+
 Multi-PDF Support
 
 OCR Integration (Q4 2024)
